@@ -10,6 +10,6 @@ int main() {
         a = b;
         b = c;
         cout << c<< endl;
-    }
+   }
    return 0;
-
+   {
